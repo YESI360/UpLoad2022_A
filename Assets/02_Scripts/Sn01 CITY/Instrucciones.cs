@@ -106,7 +106,7 @@ public class Instrucciones : MonoBehaviour
 
             if (steps >= 75) 
             {
-                SteamVR_LoadLevel.Begin("02_CalibrationBLACKAVATAR");
+                SteamVR_LoadLevel.Begin("02_Shader");
                 levelManager.LoadNextLevel();
                 flowcity.SetState(GameState0.NotStarted0);
                 

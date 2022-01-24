@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.Events;
 using UnityEngine.EventSystems;
 
-public class tocar3 : MonoBehaviour
+public class CinturaCollider : MonoBehaviour
 {
     public GameObject objGuia;
     public GameObject handRed;//1

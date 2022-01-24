@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class colliderManos : MonoBehaviour
+public class ManoRtocaGUIA : MonoBehaviour
 {
     public ShaderSB3 limit;//alCollider se pone TRUE="LUZLIMIT"
 

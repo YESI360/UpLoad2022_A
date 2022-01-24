@@ -9,7 +9,7 @@ public class fadeOut : MonoBehaviour
         {
             if (Input.GetKey("space"))
         {
-            SteamVR_LoadLevel.Begin("02_CalibrationBLACKAVATAR");
+            SteamVR_LoadLevel.Begin("02_Shader");
             }
         }
 

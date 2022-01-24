@@ -6,15 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/00_CALIBRATION.unity
+    path: Assets/01_Scenes/00_CALIBRATION.unity
     guid: bd1b8182590454d40a631d5c70df44fd
   - enabled: 1
-    path: Assets/Scenes/01_City.unity
+    path: Assets/01_Scenes/01_City.unity
     guid: c450e4802b1fc394a8d40823babc8d4e
   - enabled: 1
-    path: Assets/Scenes/02_CalibrationBLACKAVATAR.unity
+    path: Assets/01_Scenes/02_Shader.unity
     guid: da052ebe4a1815e458aa866c5cde74ff
   - enabled: 1
-    path: Assets/Scenes/03_ForestNEW.unity
+    path: Assets/01_Scenes/03_ForestNEW.unity
     guid: 7736bdadf9011274e8cb0c49af64db11
   m_configObjects: {}

@@ -17,7 +17,6 @@ public class manotocaGuia : MonoBehaviour
     //    guia = true;
     //}
 
-
     void Update()
     {
 
@@ -47,8 +46,6 @@ public class manotocaGuia : MonoBehaviour
 
     //    guia = false;
     //}
-
-
 
 
 }

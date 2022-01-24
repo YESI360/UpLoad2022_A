@@ -12,7 +12,7 @@ public class ShaderSB4 : MonoBehaviour
     public LuzHandL luzmanoL;
     public LuzHandR luzmanoR;
     bool manos;
-    public tocar3 espejo;
+    public CinturaCollider espejo;
     public ChangeMat avatar;
 
     public float lerpedValue = 0.156f;

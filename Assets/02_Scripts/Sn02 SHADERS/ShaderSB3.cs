@@ -16,10 +16,10 @@ public class ShaderSB3 : MonoBehaviour
 
     public LuzAmb luzAmb; 
     public LuzGuia luzguia;
-    public tocar3 espejo;
+    public CinturaCollider espejo;
     public ChangeMat avatar;
     public PDSensorSHARED pd;
-    public colliderManos touch;
+    public ManoRtocaGUIA touch;
     public activarColliderGuia colliderOnG;
     public activarColliderManoR colliderOnR;
     public activarColliderManoL colliderOnL;
